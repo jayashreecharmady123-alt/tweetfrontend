@@ -1,0 +1,74 @@
+/* Full page center */
+/* Card */
+.card {
+  background: #bbe2e2;
+  padding: 40px;
+  width: 350px;
+  border-radius: 12px;
+  box-shadow: 0 20px 35px rgba(0, 0, 0, 0.15);
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+/* Heading */
+.card h1 {
+  margin-bottom: 25px;
+  color: #333;
+}
+
+/* Input group */
+.input-group {
+  margin-bottom: 18px;
+  text-align: left;
+}
+
+.input-group label {
+  display: block;
+  margin-bottom: 6px;
+  font-size: 14px;
+  font-weight: 600;
+  color: #333;
+}
+
+.input-group input {
+  width: 100%;
+  padding: 12px;
+  border-radius: 8px;
+  border: 1px solid #ddd;
+  font-size: 14px;
+  transition: 0.3s;
+}
+
+.input-group input:focus {
+  border-color: #36b9cc;
+  outline: none;
+  box-shadow: 0 0 5px rgba(54, 185, 204, 0.3);
+}
+
+/* Button */
+.login-btn {
+  width: 100%;
+  padding: 12px;
+  border: none;
+  border-radius: 8px;
+  background: #36b9cc;
+  color: white;
+  font-size: 16px;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.login-btn:hover {
+  background: #2c9faf;
+}
+
+.log{
+
+  margin-left: 30px;
+  color: #381c9e;
+  cursor: pointer;
+}
+
+.ac{
+  margin-top: 20px;
+}
