@@ -37,7 +37,7 @@ export default function Tweets() {
         {loading && <p>Loading tweets...</p>}
 
         {!loading && tweets.length === 0 ? (
-          <p>No tweets found</p>
+          <p>No tweets found fghjkh</p>
         ) : (
           <div
             style={{
